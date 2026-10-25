@@ -1,0 +1,6 @@
+{
+  "name": "Avik's World",
+  "description": "Welcome to a Big World! It's the best. Play like every day with Avik - 8-year-old 3rd grade adventurer, math enthusiast, EVS explorer, toy collector, and neighborhood champion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
